@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="check_activity">Check MainActivity.kt for detailed explanation of lifecycle methods. </string>
+</resources>
